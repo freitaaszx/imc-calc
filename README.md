@@ -46,4 +46,4 @@ IMC = peso / (altura * altura)
 
 ## 👨‍💻 Autor
 
-Seu Nome Aqui
+Siiko(me)
